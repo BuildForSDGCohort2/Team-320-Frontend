@@ -1,0 +1,53 @@
+section{
+  margin: 0 120px;
+}
+
+header {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  margin-top: 50px;
+}
+
+header div {
+  margin-left: auto;
+  font-size: 20px;
+  padding-right: 50px;
+}
+
+header img {
+  padding-left: 50px;
+}
+
+header ul li {
+  display: inline-block;
+  margin: 0 20px;
+}
+
+#main {
+  margin-top: 200px;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+
+}
+
+#main .main-text{
+  font-size: 45px;
+  font-weight: 700;
+  line-height: 1.2;
+}
+
+#main img {
+  height: max-content;
+}
+
+span{
+  border-bottom: 2px solid #ffee;
+}
+
+footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  background-color: grey;
+  text-align: center;
+}
