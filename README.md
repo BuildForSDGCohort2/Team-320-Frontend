@@ -2,6 +2,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/f1a7be96254b45739fb762b2a1afe5d4)](https://app.codacy.com/gh/BuildForSDGCohort2/Team-320-Group-A-Frontend?utm_source=github.com&utm_medium=referral&utm_content=BuildForSDGCohort2/Team-320-Group-A-Frontend&utm_campaign=Badge_Grade_Settings)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/f1a7be96254b45739fb762b2a1afe5d4)](https://app.codacy.com/gh/BuildForSDGCohort2/Team-320-Frontend?utm_source=github.com&utm_medium=referral&utm_content=BuildForSDGCohort2/Team-320-Frontend&utm_campaign=Badge_Grade_Settings)
 
 In the project directory, you can run:
