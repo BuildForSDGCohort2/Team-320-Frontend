@@ -3,7 +3,7 @@ import './App.css';
 
 function App() {
   return (
-      <div className="Blue-overlay">
+      <div class="Blue-overlay">
         <header>
           <img src="./images/EhrIcon.jpg" width="100" alt="logo" />
           <div>
@@ -16,7 +16,7 @@ function App() {
         </header>
 
       <section id="main">
-        <div className="main-text"><span>Electronic Hospital Record. <br></br>Promoting Fast Medical Attention</span>
+        <div class="main-text"><span>Electronic Hospital Record. <br></br>Promoting Fast Medical Attention</span>
         </div>
         <img src="./images/ehricon.jpg" width="500" height="200" alt="ehr-main" />
       </section>
